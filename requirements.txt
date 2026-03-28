@@ -1,0 +1,14 @@
+einops
+matplotlib
+numpy
+opencv-python
+pandas
+pillow
+scikit-image
+scipy
+tensorboardX
+timm
+torch
+torchaudio
+torchvision
+tqdm
